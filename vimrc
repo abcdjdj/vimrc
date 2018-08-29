@@ -7,6 +7,3 @@ syntax on
 " For plugins to load correctly
 filetype plugin indent on
 
-" Show line numbers
-set number
-
